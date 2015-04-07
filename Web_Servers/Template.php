@@ -19,7 +19,9 @@ and open the template in the editor.
             
             <nav id="navigation">
                 <ul id="nav">
-                    <li></li>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">My Page</a></li>
+                    <li><a href="#">Logout</a></li>
                 </ul>
             </nav>
             
@@ -34,9 +36,7 @@ and open the template in the editor.
             <footer>
                 <p>CIS 400 Final</p>
             </footer>    
-            
-            
-            
+              
         </div>
         
     </body>
