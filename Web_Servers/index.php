@@ -1,8 +1,8 @@
 <?php
 
-$title = "Home";
-$content = "Hello Page";
+$title = "YourSpace+";
+$content = " ";
         
-include 'Template.php';
+include 'main_login.php';
 
 ?>

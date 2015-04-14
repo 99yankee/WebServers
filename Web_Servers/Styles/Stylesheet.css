@@ -22,7 +22,17 @@ body p
 #banner
 {
     border: 5px solid #dedede;
-    height: 200px;
+    height: 75px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#login_table
+{
+	width="300" ;
+	border="0" ;
+	
+	
 }
 
 #content_area
@@ -30,12 +40,3 @@ body p
     
 }
 
-#sidebar
-{
-    
-}
-
-footer
-{
-    
-}
