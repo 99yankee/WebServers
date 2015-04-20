@@ -4,8 +4,8 @@ ob_start();
 $host="localhost"; // Host name 
 $username="bob123"; // Mysql username 
 $password="catmeow"; // Mysql password 
-$db_name="test"; // Database name 
-$tbl_name="members"; // Table name 
+$db_name="test_create_DB"; // Database name 
+$tbl_name="web_members"; // Table name 
 
 // Connect to server and select databse.
 mysql_connect("$host", "$username", "$password")or die("cannot connect"); 
